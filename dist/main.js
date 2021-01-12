@@ -65,3 +65,5 @@ $('.feedback__slider').slick({
         }
     }]
 });
+
+AOS.init();
